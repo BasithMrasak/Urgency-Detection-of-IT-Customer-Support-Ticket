@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Model files
+*.pkl
+*.joblib
+*.bin
+*.pt
+*.h5
+
+# TF-IDF vectorizers
+*.sav
+
+# Large artifacts
+models/
+checkpoints/
+outputs/
+artifacts/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
