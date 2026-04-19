@@ -46,9 +46,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Visit `http://localhost:5000` in your browser.
-
-> **Note:** Ensure the `models/` directory contains the four required `.pkl` files before running.
 
 ## Model Performance
 
